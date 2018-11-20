@@ -55,7 +55,7 @@ This article is part of a tabular modeling tutorial, which should be completed i
     *  CalendarSemester
     *  CalendarQuarter
     *  MonthCalendar
-    *  DayNumberOfMonth
+    *  DayNumberOfWeek
     
 4.  In the **DimDate** table, create a **Fiscal** hierarchy. Include the following columns in-order:  
   
@@ -63,7 +63,7 @@ This article is part of a tabular modeling tutorial, which should be completed i
     *  FiscalSemester
     *  FiscalQuarter
     *  MonthCalendar
-    *  DayNumberOfMonth
+    *  DayNumberOfWeek
   
 5.  Finally, in the **DimDate** table, create a **ProductionCalendar** hierarchy. Include the following columns in-order:  
     *  CalendarYear

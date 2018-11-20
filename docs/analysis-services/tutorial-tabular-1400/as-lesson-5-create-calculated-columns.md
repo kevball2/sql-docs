@@ -68,7 +68,7 @@ The MonthCalendar calculated column provides a sortable name for Month.
   
 3.  Rename the column to **DayOfWeek**.  
   
-4.  Click the column heading, and then drag the column between the **EnglishDayNameOfWeek** column and the **DayNumberOfMonth** column.  
+4.  Click the column heading, and then drag the column between the **EnglishDayNameOfWeek** column and the **DayNumberOfWeek** column.  
   
     > [!TIP]  
     > Moving columns in your table makes it easier to navigate.  
